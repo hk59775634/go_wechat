@@ -1,0 +1,12 @@
+{
+  "api_url": "https://api.nsai.link",
+  "api_key": "ns_puJUwntMOPdBz4sSb0z5QZSufH5P5cKhJRy3oF5AFkNGkbbe",
+  "callback_url": "https://api.nsai.link/callback",
+  "auto_pass": true,
+  "session_timeout": 60,
+  "max_tokens": 4096,
+  "model": "gpt-3.5-turbo",
+  "temperature": 1,
+  "reply_prefix": "来自机器人回复：",
+  "session_clear_token": "清空会话"
+}
